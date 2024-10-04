@@ -1,7 +1,6 @@
 # CSharpAlgorithmsPractice
 
-This repository contains a collection of C# algorithms designed for learning and practicing basic to intermediate programming concepts. Each algorithm is implemented with clear comments and explanations.
-
+This repository contains a collection of C# algorithms designed for learning and practicing basic to intermediate programming concepts.
 ## List of some Algorithms
 
 1. **Bubble Sort** - Sorts an array by repeatedly swapping adjacent elements if they are in the wrong order.
